@@ -20,7 +20,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class GagTest
 {
     private static WebDriver webDriver;
-
+//comment example
     @BeforeClass
     public static void  initDriver(){
         webDriver = new ChromeDriver();
