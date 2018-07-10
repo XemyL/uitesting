@@ -5,6 +5,7 @@ import org.openqa.selenium.support.FindBy;
 
 
 public class LoginPage {
+    //new comment
     @FindBy(id = "login-email-name")
     private WebElement loginInput;
 
